@@ -1,4 +1,3 @@
 # Breaking Bad
----
 
-My First Repository
+**Genre:** Crime, Drama, Thriller
